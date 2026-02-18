@@ -1,8 +1,6 @@
-# MangaDex Reader 📚
+# Manga Reader 📚
 
 A modern manga reader application built with React + Vite that consumes the MangaDex API. Browse and read your favorite mangas in Portuguese with a clean and responsive interface.
-
-![MangaDex Reader](https://via.placeholder.com/1200x600/1a1a1a/ffffff?text=MangaDex+Reader)
 
 ## ✨ Features
 
